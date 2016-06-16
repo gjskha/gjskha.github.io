@@ -282,12 +282,16 @@ p {
 /**** Links ****/
 
 a { 
+    text-decoration: none;
+    color: green;
 }
  
 a:hover {
+    text-decoration: underline;
 }
 
 a:visited {
+    color: red;
 } 
 
 /**** Buttons ****/
